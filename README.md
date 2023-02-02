@@ -15,6 +15,7 @@
 - Postman od podstaw - testowanie REST API - Udemy
 
 ### Courses in progress:
+- HTML and CSS
 - Vanilla JavaScript od podstaw - stwórz 15 projektów! - Udemy
 
 
