@@ -6,6 +6,7 @@
 ### [My test Scenarios and Test Cases](https://github.com/wiszes/Test-Scenarios-and-Test-Cases---Examples)
 ### [My Bugs Reports](https://github.com/wiszes/Bugs-Reports--Examples)
 ### [My Postman API Tests](https://github.com/wiszes/Postman-API-Tests--Examples)
+### [My Cypress E2E Test Exaple](https://github.com/wiszes/cypress-guitar-shop)
 
 ### Finished courses:
 - Automatyzacja testów: WebdriverIO + Typescript - Jenkins - Udemy
