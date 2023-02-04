@@ -30,7 +30,9 @@
 - SQL basics
 - Devtools
 - Test automation basics
-- Jenkins basics
+- Jenkins basics 
+</br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiszes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
